@@ -1,0 +1,204 @@
+2022-03-29 16:06:06,296 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:06:07,414 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:06:07,507 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:06:07,585 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:06:12,310 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:06:12,383 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:06:15,505 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-29 16:06:16,927 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-29 16:06:16,927 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-29 16:06:17,185 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-29 16:06:20,355 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-29 16:06:20,568 [main] INFO nopCommerce - Browser was closed
+2022-03-29 16:06:21,253 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:06:22,013 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:06:22,113 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:06:22,200 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:06:25,693 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:06:25,711 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:06:30,546 [main] INFO nopCommerce - Clicked on Logout
+2022-03-29 16:06:33,556 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:06:36,832 [main] INFO nopCommerce - Browser was closed
+2022-03-29 16:28:23,335 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:28:25,297 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:28:25,388 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:28:25,463 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:28:29,241 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:28:29,283 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:28:32,397 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-29 16:28:35,086 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-29 16:28:35,103 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-29 16:28:35,359 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-29 16:28:38,518 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-29 16:28:38,758 [main] INFO nopCommerce - Browser was closed
+2022-03-29 16:35:08,546 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:35:09,580 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:35:09,668 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:35:09,747 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:35:12,772 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:35:12,807 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:35:15,926 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-29 16:35:17,855 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-29 16:35:17,856 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-29 16:35:18,130 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-29 16:35:21,310 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-29 16:35:21,511 [main] INFO nopCommerce - Browser was closed
+2022-03-29 16:35:36,934 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:35:38,714 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:35:38,805 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:35:38,884 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:35:42,731 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:35:42,765 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:35:45,884 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-29 16:35:46,797 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-29 16:35:46,805 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-29 16:35:47,464 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-29 16:35:50,627 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-29 16:35:50,814 [main] INFO nopCommerce - Browser was closed
+2022-03-29 16:35:51,481 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:35:52,364 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:35:52,457 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:35:52,540 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:36:11,577 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:36:11,609 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:36:16,519 [main] INFO nopCommerce - Clicked on Logout
+2022-03-29 16:36:19,539 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:36:22,730 [main] INFO nopCommerce - Browser was closed
+2022-03-29 16:38:30,910 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:38:32,821 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:38:32,909 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:38:32,984 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:38:36,728 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:38:36,796 [main] INFO nopCommerce - Login Passed
+2022-03-29 16:38:41,777 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-29 16:38:43,548 [main] INFO nopCommerce - Opened the url
+2022-03-29 16:38:43,638 [main] INFO nopCommerce - Entered the username
+2022-03-29 16:38:43,725 [main] INFO nopCommerce - Entered the Password
+2022-03-29 16:38:44,306 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-29 16:38:44,398 [main] INFO nopCommerce - Login Failed
+2022-03-30 10:50:30,102 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 10:50:31,982 [main] INFO nopCommerce - Opened the url
+2022-03-30 10:50:32,084 [main] INFO nopCommerce - Entered the username
+2022-03-30 10:50:32,178 [main] INFO nopCommerce - Entered the Password
+2022-03-30 10:50:36,159 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 10:50:36,233 [main] INFO nopCommerce - Login Passed
+2022-03-30 10:50:39,351 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-30 10:50:40,262 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-30 10:50:40,270 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-30 10:50:40,850 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-30 10:50:44,039 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-30 10:50:44,274 [main] INFO nopCommerce - Browser was closed
+2022-03-30 10:50:44,961 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 10:50:46,823 [main] INFO nopCommerce - Opened the url
+2022-03-30 10:50:46,916 [main] INFO nopCommerce - Entered the username
+2022-03-30 10:50:47,000 [main] INFO nopCommerce - Entered the Password
+2022-03-30 10:50:50,719 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 10:50:50,738 [main] INFO nopCommerce - Login Passed
+2022-03-30 10:50:55,344 [main] INFO nopCommerce - Clicked on Logout
+2022-03-30 10:50:58,369 [main] INFO nopCommerce - Login Passed
+2022-03-30 10:51:01,569 [main] INFO nopCommerce - Browser was closed
+2022-03-30 11:00:19,472 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 11:00:21,471 [main] INFO nopCommerce - Opened the url
+2022-03-30 11:00:21,551 [main] INFO nopCommerce - Entered the username
+2022-03-30 11:00:21,612 [main] INFO nopCommerce - Entered the Password
+2022-03-30 11:00:25,620 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 11:00:25,700 [main] INFO nopCommerce - Login Passed
+2022-03-30 11:00:28,799 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-30 11:00:30,213 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-30 11:00:30,215 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-30 11:00:30,435 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-30 11:00:33,610 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-30 11:00:33,850 [main] INFO nopCommerce - Browser was closed
+2022-03-30 11:00:34,607 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 11:00:36,536 [main] INFO nopCommerce - Opened the url
+2022-03-30 11:00:36,630 [main] INFO nopCommerce - Entered the username
+2022-03-30 11:00:36,712 [main] INFO nopCommerce - Entered the Password
+2022-03-30 11:00:40,286 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 11:00:40,306 [main] INFO nopCommerce - Login Passed
+2022-03-30 11:00:44,820 [main] INFO nopCommerce - Clicked on Logout
+2022-03-30 11:00:47,883 [main] INFO nopCommerce - Login Passed
+2022-03-30 11:00:51,077 [main] INFO nopCommerce - Browser was closed
+2022-03-30 12:49:02,656 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 12:49:04,789 [main] INFO nopCommerce - Opened the url
+2022-03-30 12:49:04,880 [main] INFO nopCommerce - Entered the username
+2022-03-30 12:49:04,961 [main] INFO nopCommerce - Entered the Password
+2022-03-30 12:49:09,053 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 12:49:09,129 [main] INFO nopCommerce - Login Passed
+2022-03-30 12:49:12,226 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-30 12:49:15,900 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-30 12:49:15,904 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-30 12:49:16,179 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-30 12:49:19,356 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-30 12:49:19,581 [main] INFO nopCommerce - Browser was closed
+2022-03-30 12:49:20,292 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 12:49:21,134 [main] INFO nopCommerce - Opened the url
+2022-03-30 12:49:21,235 [main] INFO nopCommerce - Entered the username
+2022-03-30 12:49:21,316 [main] INFO nopCommerce - Entered the Password
+2022-03-30 12:49:24,388 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 12:49:24,406 [main] INFO nopCommerce - Login Passed
+2022-03-30 12:49:29,466 [main] INFO nopCommerce - Clicked on Logout
+2022-03-30 12:49:32,486 [main] INFO nopCommerce - Login Passed
+2022-03-30 12:49:35,737 [main] INFO nopCommerce - Browser was closed
+2022-03-30 12:55:16,834 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 12:55:18,973 [main] INFO nopCommerce - Opened the url
+2022-03-30 12:55:19,089 [main] INFO nopCommerce - Entered the username
+2022-03-30 12:55:19,191 [main] INFO nopCommerce - Entered the Password
+2022-03-30 12:55:23,257 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 12:55:23,316 [main] INFO nopCommerce - Login Passed
+2022-03-30 12:55:26,439 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-30 12:55:29,651 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-30 12:55:29,659 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-30 12:55:29,929 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-30 12:55:33,073 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-30 12:55:33,264 [main] INFO nopCommerce - Browser was closed
+2022-03-30 12:55:33,975 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 12:55:35,602 [main] INFO nopCommerce - Opened the url
+2022-03-30 12:55:35,702 [main] INFO nopCommerce - Entered the username
+2022-03-30 12:55:35,800 [main] INFO nopCommerce - Entered the Password
+2022-03-30 12:55:40,197 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 12:55:40,222 [main] INFO nopCommerce - Login Passed
+2022-03-30 12:55:44,773 [main] INFO nopCommerce - Clicked on Logout
+2022-03-30 12:55:47,789 [main] INFO nopCommerce - Login Passed
+2022-03-30 12:55:51,024 [main] INFO nopCommerce - Browser was closed
+2022-03-30 16:00:28,135 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 16:00:30,235 [main] INFO nopCommerce - Opened the url
+2022-03-30 16:00:30,358 [main] INFO nopCommerce - Entered the username
+2022-03-30 16:00:30,465 [main] INFO nopCommerce - Entered the Password
+2022-03-30 16:00:34,478 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 16:00:34,517 [main] INFO nopCommerce - Login Passed
+2022-03-30 16:00:37,623 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-30 16:00:39,177 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-30 16:00:39,178 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-30 16:00:39,354 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-30 16:00:42,473 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-30 16:00:42,616 [main] INFO nopCommerce - Browser was closed
+2022-03-30 16:00:43,275 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 16:00:45,217 [main] INFO nopCommerce - Opened the url
+2022-03-30 16:00:45,303 [main] INFO nopCommerce - Entered the username
+2022-03-30 16:00:45,368 [main] INFO nopCommerce - Entered the Password
+2022-03-30 16:00:49,361 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 16:00:49,382 [main] INFO nopCommerce - Login Passed
+2022-03-30 16:00:54,129 [main] INFO nopCommerce - Clicked on Logout
+2022-03-30 16:00:57,140 [main] INFO nopCommerce - Login Passed
+2022-03-30 16:01:00,285 [main] INFO nopCommerce - Browser was closed
+2022-03-30 16:06:09,617 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 16:06:10,610 [main] INFO nopCommerce - Opened the url
+2022-03-30 16:06:10,710 [main] INFO nopCommerce - Entered the username
+2022-03-30 16:06:10,800 [main] INFO nopCommerce - Entered the Password
+2022-03-30 16:06:15,114 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 16:06:15,152 [main] INFO nopCommerce - Login Passed
+2022-03-30 16:06:18,260 [main] INFO nopCommerce - Clicked on Customer Menu
+2022-03-30 16:06:20,032 [main] INFO nopCommerce - Clicked on Customer Menu Item
+2022-03-30 16:06:20,033 [main] INFO nopCommerce - *****Searching the Cutomer by email*******
+2022-03-30 16:06:20,241 [main] INFO nopCommerce - *****Clicked on search button*******
+2022-03-30 16:06:23,362 [main] INFO nopCommerce - *****Searched customer if found in the table******
+2022-03-30 16:06:23,508 [main] INFO nopCommerce - Browser was closed
+2022-03-30 16:06:24,237 [main] INFO nopCommerce - ******Chrome Browser was launched******
+2022-03-30 16:06:26,139 [main] INFO nopCommerce - Opened the url
+2022-03-30 16:06:26,229 [main] INFO nopCommerce - Entered the username
+2022-03-30 16:06:26,308 [main] INFO nopCommerce - Entered the Password
+2022-03-30 16:06:30,337 [main] INFO nopCommerce - Clicked on Login Button
+2022-03-30 16:06:30,362 [main] INFO nopCommerce - Login Passed
+2022-03-30 16:06:34,987 [main] INFO nopCommerce - Clicked on Logout
+2022-03-30 16:06:37,995 [main] INFO nopCommerce - Login Passed
+2022-03-30 16:06:41,133 [main] INFO nopCommerce - Browser was closed
